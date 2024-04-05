@@ -1,0 +1,11 @@
+This program illustrates how to read a file and stream into variable using in-built c++ libraries only.
+
+LIBRARIES
+	- iostream
+	- fstream
+
+COMPILER USED:
+	- GCC
+
+LANGUAGE
+	- C++
